@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+public ${1:void} ${2:FunctionName} (${3:args}) {
+	${4}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>puf</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.cs</scope>
+</snippet>
