@@ -2,4 +2,5 @@
 /Cache
 /Index
 /Local
-Package\ Control.*
+Package\ Control.*/
+/Package\ Control.cache
