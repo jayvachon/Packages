@@ -1,2 +1,5 @@
 Package\ Control.*
 /Package\ Control.cache
+.DS_Store
+Package\ Control.sublime-settings
+SolarizedToggle.sublime-settings
