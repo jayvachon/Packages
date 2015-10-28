@@ -8,6 +8,10 @@
 	"font_size": 15.0,
 	"ignored_packages":
 	[
+		"Advanced CSV",
+		"Glue",
+		"JSON Reindent",
+		"Markdown Preview",
 		"Vintage"
 	],
 	"open_files_in_new_window": false
