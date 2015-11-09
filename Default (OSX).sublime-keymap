@@ -11,5 +11,7 @@
 	{ "keys": ["`", "1"], "command": "prev_bookmark" },
 	{ "keys": ["`", "q"], "command": "toggle_bookmark" },
 	{ "keys": ["`", "w"], "command": "clear_bookmarks" },
-	{ "keys": ["`", "e"], "command": "select_all_bookmarks" }
+	{ "keys": ["`", "e"], "command": "select_all_bookmarks" },
+	{ "keys": ["super+alt+v"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/newline-paste.sublime-macro"} },
+	{ "keys": ["super+alt+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/move-down-indent.sublime-macro"} }
 ]

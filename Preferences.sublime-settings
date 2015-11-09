@@ -1,11 +1,11 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.meta",
 		".DS_Store"
 	],
-	"font_size": 15.0,
+	"font_size": 14.0,
 	"ignored_packages":
 	[
 		"Advanced CSV",
