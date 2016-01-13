@@ -13,5 +13,11 @@
 	{ "keys": ["`", "w"], "command": "clear_bookmarks" },
 	{ "keys": ["`", "e"], "command": "select_all_bookmarks" },
 	{ "keys": ["super+alt+v"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/newline-paste.sublime-macro"} },
-	{ "keys": ["super+alt+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/move-down-indent.sublime-macro"} }
+	{ "keys": ["shift+super+alt+v"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/newline-paste-above.sublime-macro"} },
+	{ "keys": ["super+alt+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/move-down-indent.sublime-macro"} },
+	{ "keys": ["super+alt+x"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/clear-line.sublime-macro"} },
+	{ "keys": ["super+."], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/escape-and-equal.sublime-macro"} },
+	{ "keys": ["shift+super+."], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/equal.sublime-macro"} },
+	{ "keys": ["ctrl+alt+left"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/delete-string-section-back.sublime-macro"} },
+	{ "keys": ["ctrl+alt+right"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/delete-string-section-forward.sublime-macro"} }
 ]

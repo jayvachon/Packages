@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<h5${1:attr}>${2:header}</h5>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>h5</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html.handlebars, source.jinja2, text.html.basic</scope>
+</snippet>
