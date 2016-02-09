@@ -1,0 +1,46 @@
+[
+	{
+		"args":
+		{
+			"characters": "<!"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "--"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " "
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " -->"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"by": "words",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": false
+		},
+		"command": "move"
+	}
+]

@@ -5,14 +5,16 @@
 		"*.meta",
 		".DS_Store"
 	],
-	"font_size": 14.0,
+	"font_size": 13.0,
 	"ignored_packages":
 	[
 		"Advanced CSV",
 		"Glue",
 		"JSON Reindent",
 		"Markdown Preview",
+		"ScopeContext",
 		"Vintage"
 	],
-	"open_files_in_new_window": false
+	"open_files_in_new_window": false,
+	"origami_auto_close_empty_panes": true
 }

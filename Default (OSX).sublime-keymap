@@ -19,5 +19,7 @@
 	{ "keys": ["super+."], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/escape-and-equal.sublime-macro"} },
 	{ "keys": ["shift+super+."], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/equal.sublime-macro"} },
 	{ "keys": ["ctrl+alt+left"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/delete-string-section-back.sublime-macro"} },
-	{ "keys": ["ctrl+alt+right"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/delete-string-section-forward.sublime-macro"} }
+	{ "keys": ["ctrl+alt+right"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/delete-string-section-forward.sublime-macro"} },
+	{ "keys": ["super+k", "super+j"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/capitalize.sublime-macro"} },
+	{ "keys": ["super+ctrl+/"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/html-comment.sublime-macro"} }
 ]
