@@ -1,20 +1,19 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"default_line_ending": "unix",
 	"file_exclude_patterns":
 	[
 		"*.meta",
 		".DS_Store"
 	],
-	"font_size": 13.0,
 	"ignored_packages":
 	[
-		"Advanced CSV",
-		"Glue",
-		"JSON Reindent",
-		"Markdown Preview",
-		"ScopeContext",
+		"SublimeLinter-contrib-credo",
 		"Vintage"
 	],
-	"open_files_in_new_window": false,
-	"origami_auto_close_empty_panes": true
+	"material_theme_accent_red": true,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"origami_auto_close_empty_panes": true,
+	"caret_style": "phase",
+	"highlight_line": true,
+	"bold_folder_labels": true
 }
