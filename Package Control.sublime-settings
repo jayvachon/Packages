@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Dockerfile Syntax Highlighting",
+		"Godef",
+		"JSON Reindent",
+		"LineJumper",
+		"Material Theme",
+		"MoveTab",
+		"Origami",
+		"Package Control",
+		"Sass",
+		"ScopeAlways",
+		"SublimeLinter-contrib-credo",
+		"TypeScript"
+	]
+}
