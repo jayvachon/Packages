@@ -1,19 +1,19 @@
 {
+	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"default_line_ending": "unix",
 	"file_exclude_patterns":
 	[
 		"*.meta",
 		".DS_Store"
 	],
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"SublimeLinter-contrib-credo",
 		"Vintage"
 	],
 	"material_theme_accent_red": true,
-	"theme": "Material-Theme-Darker.sublime-theme",
 	"origami_auto_close_empty_panes": true,
-	"caret_style": "phase",
-	"highlight_line": true,
-	"bold_folder_labels": true
+	"theme": "Material-Theme-Darker.sublime-theme"
 }

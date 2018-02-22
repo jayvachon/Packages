@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Dockerfile Syntax Highlighting",
+		"Gitignore",
 		"Godef",
 		"JSON Reindent",
 		"LineJumper",
