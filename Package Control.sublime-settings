@@ -8,6 +8,7 @@
 		"Dockerfile Syntax Highlighting",
 		"Gitignore",
 		"Godef",
+		"GoImports",
 		"JSON Reindent",
 		"LineJumper",
 		"Material Theme",
