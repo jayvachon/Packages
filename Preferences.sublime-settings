@@ -1,12 +1,14 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Lighter.tmTheme",
 	"default_line_ending": "unix",
 	"file_exclude_patterns":
 	[
 		"*.meta",
 		".DS_Store"
 	],
+	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -15,5 +17,5 @@
 	],
 	"material_theme_accent_red": true,
 	"origami_auto_close_empty_panes": true,
-	"theme": "Material-Theme-Darker.sublime-theme"
+	"theme": "Material-Theme-Lighter.sublime-theme"
 }
