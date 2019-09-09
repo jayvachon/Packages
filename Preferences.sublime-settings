@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Lighter.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"default_line_ending": "unix",
 	"file_exclude_patterns":
 	[
@@ -16,6 +16,9 @@
 		"Vintage"
 	],
 	"material_theme_accent_red": true,
+	"material_theme_accent_scrollbars": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_titlebar": true,
 	"origami_auto_close_empty_panes": true,
-	"theme": "Material-Theme-Lighter.sublime-theme"
+	"theme": "Material-Theme-Darker.sublime-theme"
 }
