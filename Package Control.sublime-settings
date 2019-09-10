@@ -6,10 +6,12 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"AdvancedNewFile",
 		"Dockerfile Syntax Highlighting",
 		"Gitignore",
 		"Godef",
 		"GoImports",
+		"HTMLBeautify",
 		"JSON Reindent",
 		"LineJumper",
 		"Material Theme",
